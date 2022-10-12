@@ -37,4 +37,7 @@ const addData1 = async()=>{
     })
 }//Similarly we have find and other method to do CRUD operations in it.
 
-// addData1();
+addData1();
+
+
+// visit https://www.bmc.com/blogs/mongodb-operators/ for operator section very well expained.
